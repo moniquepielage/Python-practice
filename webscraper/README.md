@@ -4,7 +4,7 @@ Een verzameling van Python-scripts voor het scrapen van Wikipedia-inhoud met beh
 
 ## Projectbeschrijving
 
-Deze map bevat mehrere webscraper-scripts die verschillende technieken demonstreren voor het ophalen en verwerken van Wikipedia-gegevens:
+Deze map bevat meerdere webscraper-scripts die verschillende technieken demonstreren voor het ophalen en verwerken van Wikipedia-gegevens:
 
 - **Basale scraping**: Pagina's ophalen en hun inhoud analyseren
 - **Link-filtering**: Gebruik van een "verboden lijst" om bepaalde links uit te filteren
